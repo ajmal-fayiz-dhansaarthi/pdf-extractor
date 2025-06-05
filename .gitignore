@@ -1,0 +1,17 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Ignore all PDF files
+*.pdf
+
+# Ignore output files
+*.json
+*.log
+
+# Ignore VS Code settings
+.vscode/
+venv/
