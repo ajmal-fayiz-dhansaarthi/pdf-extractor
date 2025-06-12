@@ -7,6 +7,8 @@ __pycache__/
 
 # Ignore all PDF files
 *.pdf
+*.txt
+*.csv
 
 # Ignore output files
 *.json
